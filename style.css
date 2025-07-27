@@ -2,10 +2,10 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #eaf3f5;
     color: #333;
-    font-size: 13px; /* chuẩn trên mọi thiết bị */
+    font-size: 13px; 
 }
 .cv-container {
-    max-width: 730px; /* Gần khổ A4 (794px), vẫn thoáng trên PC */
+    max-width: 730px; 
     margin: 40px auto;
     background-color: #fff;
     padding: 40px 50px;
@@ -24,7 +24,7 @@ body {
 }
 
 .header-name h1 {
-    font-size: 2.75rem; /* hoặc bạn có thể dùng 3rem nếu muốn to hơn */
+    font-size: 2.75rem; 
     margin-bottom: 0.2rem;
 }
 
@@ -78,7 +78,7 @@ a:hover {
     box-shadow: none !important;
     margin: 0 auto !important;
     padding: 30px 50px !important;
-    max-width: 794px !important; /* khổ A4 */
+    max-width: 794px !important; 
   }
   .profile-img {
     border: none;
